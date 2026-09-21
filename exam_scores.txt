@@ -1,0 +1,4 @@
+Name: Mei
+Exam1 Score: 90
+Exam2 score: 70
+Average Score: 125.0
