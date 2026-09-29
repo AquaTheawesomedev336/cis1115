@@ -1,0 +1,28 @@
+
+
+import java.ultil.Scanner;
+
+public class days_in_month {
+    public static void main (String[] args) {
+
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter a month number: ");
+
+    if(!sc.hasNextInt) {
+        System.out.println("Invalid must enter a valid number")
+    } else {
+        int year = c.nextInt();
+        System.out.println("Month: " + month + year +  "\nYear " + year);
+
+        String MonthName = "N/A";
+
+        int days = 0;
+
+        
+
+
+
+        }
+
+    }
+}
