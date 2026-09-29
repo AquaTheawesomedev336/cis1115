@@ -1,0 +1,74 @@
+///////////////////////
+Enter first Number: 5 
+Enter second Number: 9
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: +
+Result: 14.0
+/////////////////////////
+Enter first Number: 2.5
+Enter second Number: 9
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: -
+Result: -6.5
+/////////////////////////
+nter first Number: 2
+Enter second Number: 4
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: ^
+Result: 16.0
+/////////////////////////
+Enter first Number: 4
+Enter second Number: 3
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: *
+Result: 12.0
+/////////////////////////////
+Enter first Number: 5
+Enter second Number: 5
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: 
+Result: 1.0
+////////////////////////////////
+Enter first Number: 4
+Enter second Number: 2
+Operations:
+  Addition (+)
+  Subtraction (-)
+  Multiplication (*)
+  Division (/)
+  Modulus (%)
+  Exponent (^)
+Enter a mathematical operation: %
+Result: 0.0
+
+
